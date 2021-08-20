@@ -6,5 +6,5 @@
 
 
 - 🔭 I’m currently working on Secueity - IAM
-- 🌱 I’m currently learning ... Go and Python
+- 🌱 I’m currently learning Go and Python
 
