@@ -5,6 +5,6 @@
 </div>
 
 
-- 🔭 I’m currently working on Secueity - IAM
+- 🔭 I’m currently working on Security - IAM
 - 🌱 I’m currently learning Go and Python
 
