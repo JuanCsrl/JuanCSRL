@@ -6,5 +6,13 @@
 
 
 - 🔭 I’m currently working on Security - IAM
-- 🌱 I’m currently learning Go and Python
+- 🖥️ Languages and Tools:
+  - GO
+  - Python
+  - JavaScript
+  - HTML/CSS
+  - Shell
+  - Docker
+  - Terraform
+  - LDAP/AD
 
