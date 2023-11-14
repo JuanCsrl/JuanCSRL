@@ -16,4 +16,7 @@ My name is Juan Iâ€™m graduated in System's Analysis and Development at Fatec SÃ
   - Terraform
   - LDAP/AD
   - AWS
+  - GCP
+  - Azure
+    
 
